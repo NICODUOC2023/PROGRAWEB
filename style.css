@@ -1,0 +1,21 @@
+body{
+    background-color: #fffefe;
+}
+
+li{
+    margin-right: 30px;
+}
+
+
+a{
+    color: aliceblue;
+
+}
+
+.custom-color {
+    color: blue; /* Replace blue with your desired color */
+  }
+
+.btn-primary {
+    background-color: #7d884ae7;
+}
